@@ -1,5 +1,10 @@
  Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAntonio&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntonio&layout=compact&theme=tokyonight )](https://github.com/GuilhermeAntonio/github-readme-stats)
+
+
 <div align="center">
   <a href="https://github.com/GuilhermeAntonio">
 
