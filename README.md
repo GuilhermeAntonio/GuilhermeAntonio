@@ -2,8 +2,9 @@
 ## Hi I'm Guilherme Antonio 
 I am a developer Front-end, who aims to work with companies that focus on technology and innovation. I offer both development services of web applications and websites!
   
-  <div align="center">
-  <br>
+  <div align="center"> 
+
+  <h3>My tools<h3/>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
