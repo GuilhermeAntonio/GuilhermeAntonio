@@ -15,7 +15,7 @@ I am a developer Front-end, who aims to work with companies that focus on techno
     </div>
 
   <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_commits"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntonio&layout=compact&langs_count=7&theme=dracula"/>
   </div>    <br>
 
