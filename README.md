@@ -36,7 +36,7 @@ I am a developer Front-end, who aims to work with companies that focus on techno
 
   <div style="display: inline_block;">
     
-  <a href="linkedin.com/in/guilherme-antonio-54561315a">     <img align="left" alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/guilherme-antonio-54561315a/">     <img align="left" alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
